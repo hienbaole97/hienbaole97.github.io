@@ -1,6 +1,6 @@
-baseURL = 'https://truyencuabo.github.io/'
+baseURL = 'https://hienbaole97.github.io/'
 languageCode = 'en-us'
-title = 'Chuyện của bố'
+title = 'Hien LÊ'
 publishDir = "docs"
 
 # Theme used
@@ -29,13 +29,13 @@ pygmentsStyle = "native"
 # Configure main navbar links. They can have a weight to select the order.
 # This links to content within the content/post/ folder
 [[menu.main]]
-    name = "Chuyện"
+    name = "Portfolio"
     url = "/post/"
     weight = -150
 
 # This links to the page about.md
 [[menu.main]]
-    name = "Giới thiệu"
+    name = "A propos"
     url = "/about/"
     weight = -110
 
@@ -46,7 +46,7 @@ pygmentsStyle = "native"
     weight = -120
 
 [[menu.main]]
-    name = "Mục"
+    name = "Catégories"
     url = "/categories/"
     weight = -130
 
@@ -54,9 +54,9 @@ pygmentsStyle = "native"
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
-    description = """"""
+    description = """Portfolio de Hien"""
     # Author of the site
-    authorName = ""
+    authorName = "built with Hugo Atastine theme"
     # Main image for the author. This will be the default image for SEO.
 
     # Indicate if you host Katex yourself. Defaults to using the CDN KaTex.

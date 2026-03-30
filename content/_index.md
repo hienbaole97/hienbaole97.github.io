@@ -1,3 +1,12 @@
-# Chuyện của bố
-
-Vốn là nơi ghi chép những chuyện và truyện của bố Tỏn. Nhưng bố không cần, nên mình đành dùng.
+---
+# === Required fields  ===
+# Your name 
+name: "Hien L[E]"
+# Your profile picture
+imgname: 
+  name: "img/main.jpg"
+  alt: "main"
+  type: image/jpeg
+---
+# Introduction
+Ici un réservoir pour certaines de mes créations.
