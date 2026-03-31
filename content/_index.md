@@ -4,7 +4,7 @@
 name: "Hien L[E]"
 # Your profile picture
 imgname: 
-  name: "img/main.jpg"
+  name: "main/main.jpg"
   alt: "main"
   type: image/jpeg
 ---
