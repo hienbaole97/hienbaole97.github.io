@@ -58,6 +58,10 @@ pygmentsStyle = "native"
     # Author of the site
     authorName = "built with Hugo Atastine theme"
     # Main image for the author. This will be the default image for SEO.
+    [params.imgname]
+        name = "img/image.jpg"
+        # Add an alt description for the image
+        alt = "Profile picture"
 
     # Indicate if you host Katex yourself. Defaults to using the CDN KaTex.
     # hostedKaTex = false
@@ -79,3 +83,18 @@ pygmentsStyle = "native"
 # Sitemap location (default is /sitemap.xml)
 [sitemap]
   filename = "sitemap.xml"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup.goldmark.renderHooks.image]
+   enableDefault = true
+
+[[module.mounts]]
+   source = 'static'
+   target = 'assets'
+
+[[module.mounts]]
+source = 'static/img'
+target = 'assets/images'

@@ -2,11 +2,13 @@
 # === Required fields  ===
 # Your name 
 name: "Hien L[E]"
-# Your profile picture
-imgname: 
-  name: "main/main.jpg"
-  alt: "main"
+imgname:
+  name: "img/image.jpg"
+  alt: "Picture of me"
   type: image/jpeg
+personal_title: "Portfolio"
 ---
 # Introduction
 Ici un réservoir pour certaines de mes créations.
+
+<!-- ![main](img/image.jpg) -->
