@@ -4,7 +4,7 @@
 name: "Hien L[E]"
 imgname:
   name: "img/image.jpg"
-  alt: "Picture of me"
+  alt: "Main"
   type: image/jpeg
 personal_title: "Portfolio"
 ---
