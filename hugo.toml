@@ -56,7 +56,8 @@ pygmentsStyle = "native"
     # missing it will fallback to that one.
     description = """Portfolio de Hien"""
     # Author of the site
-    authorName = "built with Hugo Atastine theme"
+    authorName = "Hien LÊ"
+
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
         name = "img/image.jpg"
@@ -98,3 +99,7 @@ pygmentsStyle = "native"
 [[module.mounts]]
 source = 'static/img'
 target = 'assets/images'
+
+[author]
+name = "Hien Le"
+email = "hienbaole97@gmail.com"
