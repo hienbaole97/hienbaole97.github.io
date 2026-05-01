@@ -6,7 +6,7 @@ title = 'Hien LÊ'
 
 # publishDir = "docs"
 
-copyright = "© Hien Lê"
+copyright = "© Hien Lê built with Hugo Theme Gallery"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 timeZone = "Europe/Paris"
@@ -84,7 +84,7 @@ pygmentsStyle = "native"
 
 [build]
     publishResources = false
-    
+
 # Sitemap location (default is /sitemap.xml)
 [sitemap]
   filename = "sitemap.xml"
