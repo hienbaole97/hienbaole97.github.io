@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 
 title = 'Hien LÊ'
 
-# publishDir = "docs"
+publishDir = "docs"
 
 copyright = "© Hien Lê built with Hugo Theme Gallery"
 disableKinds = ["taxonomy"]
