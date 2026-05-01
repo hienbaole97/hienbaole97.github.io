@@ -1,10 +1,19 @@
 baseURL = 'https://hienbaole97.github.io/'
 languageCode = 'en-us'
+defaultContentLanguage = "en"
+
 title = 'Hien LÊ'
-publishDir = "docs"
+
+# publishDir = "docs"
+
+copyright = "© Hien Lê"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+timeZone = "Europe/Paris"
+timeout = "120s"
 
 # Theme used
-theme = "hugo-astatine-theme"
+theme = "gallery"
 
 preserveTaxonomyNames = true
 rssLimit = 10
@@ -17,9 +26,6 @@ pygmentsStyle = "native"
 
 # Taxonomies (only tags and categories are supported out of the box but you can
 # add more)
-[taxonomies]
-    category = "categories"  
-    tag = "tags"
 
 # Configure permalinks style
 [permalinks]
@@ -29,8 +35,8 @@ pygmentsStyle = "native"
 # Configure main navbar links. They can have a weight to select the order.
 # This links to content within the content/post/ folder
 [[menu.main]]
-    name = "Portfolio"
-    url = "/post/"
+    name = "Gravures"
+    url = "/gravures/"
     weight = -150
 
 # This links to the page about.md
@@ -39,48 +45,46 @@ pygmentsStyle = "native"
     url = "/about/"
     weight = -110
 
-# Make the tags and categories pages accessible directly from the navbar.
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = -120
-
-[[menu.main]]
-    name = "Catégories"
-    url = "/categories/"
-    weight = -130
 
 # Site wide params and SEO
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
     description = """Portfolio de Hien"""
+    title = "Hien LÊ"
     # Author of the site
     authorName = "Hien LÊ"
 
     # Main image for the author. This will be the default image for SEO.
-    [params.imgname]
-        name = "img/image.jpg"
-        # Add an alt description for the image
-        alt = "Profile picture"
+    [params.author]
+        name = "Hien LÊ"
+
+    [params.gallery]
+        boxSpacing = 10
+        previewType="blur"
 
     # Indicate if you host Katex yourself. Defaults to using the CDN KaTex.
     # hostedKaTex = false
-
-    # Optional: add a twitter handle and mastodon handle for SEO.
-    # [params.twitter]
-        # name = "@Jack_harkness"
-    # [params.mastodon]
-        # name = "@jkharkness"
-        # host = "mastodon.social"
     
     # Enable link to feed in footer
     blogrss = true
 
-    # Enable pingback and webmention via webmention.io
-    # webmention = "hugocisneros.com"
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+  
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
 
-
+[build]
+    publishResources = false
+    
 # Sitemap location (default is /sitemap.xml)
 [sitemap]
   filename = "sitemap.xml"
@@ -99,7 +103,3 @@ pygmentsStyle = "native"
 [[module.mounts]]
 source = 'static/img'
 target = 'assets/images'
-
-[author]
-name = "Hien Le"
-email = "hienbaole97@gmail.com"

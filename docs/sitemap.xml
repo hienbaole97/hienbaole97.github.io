@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-    <url>
-        <loc>https://hienbaole97.github.io/</loc>
-    </url>
-    
-    <url>
-        <loc>https://hienbaole97.github.io/about/</loc>
-    </url>
-    
-    <url>
-        <loc>https://hienbaole97.github.io/categories/</loc>
-    </url>
-    
-    <url>
-        <loc>https://hienbaole97.github.io/post/</loc>
-    </url>
-    
-    <url>
-        <loc>https://hienbaole97.github.io/tags/</loc>
-    </url>
-    
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hienbaole97.github.io/gravures/</loc>
+    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/categories/carborundum/</loc>
+    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/gravures/carborundum/</loc>
+    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/categories/gravures/</loc>
+    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/</loc>
+    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/about/</loc>
+  </url>
 </urlset>

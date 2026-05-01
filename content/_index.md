@@ -1,14 +1,10 @@
 ---
 # === Required fields  ===
 # Your name 
-name: "Hien L[E]"
-imgname:
-  name: "img/image.jpg"
-  alt: "Main"
-  type: image/jpeg
-personal_title: "Portfolio"
+description: Ici un réservoir pour certaines de mes créations.
+title: Hien L[E]
+menus:
+  main:
+    name: Home
+    weight: -1
 ---
-# Introduction
-Ici un réservoir pour certaines de mes créations.
-
-<!-- ![main](img/image.jpg) -->
