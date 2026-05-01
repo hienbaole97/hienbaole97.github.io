@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravures on Hien LÊ</title>
-    <link>https://hienbaole97.github.io/categories/gravures/</link>
+    <link>http://localhost:1313/categories/gravures/</link>
     <description>Recent content in Gravures on Hien LÊ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Hien Lê built with Hugo Theme Gallery</copyright>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://hienbaole97.github.io/categories/gravures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/gravures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carborundum</title>
-      <link>https://hienbaole97.github.io/gravures/carborundum/</link>
+      <link>http://localhost:1313/gravures/carborundum/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/carborundum/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/carborundum/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/carborundum/</guid>
+        <media:content url="http://localhost:1313/gravures/carborundum/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/carborundum/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/carborundum/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Eau-forte</title>
-      <link>https://hienbaole97.github.io/gravures/eauforte/</link>
+      <link>http://localhost:1313/gravures/eauforte/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/eauforte/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/eauforte/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/eauforte/</guid>
+        <media:content url="http://localhost:1313/gravures/eauforte/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/eauforte/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/eauforte/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Aquatinte, sucre, morsure directe, vernis mou, pointe eau-forte&lt;/p&gt;
         </description></item>
   </channel>
