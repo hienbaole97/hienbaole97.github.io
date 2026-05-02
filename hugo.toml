@@ -39,6 +39,11 @@ pygmentsStyle = "native"
     url = "/gravures/"
     weight = -150
 
+[[menu.main]]
+    name = "Photos"
+    url = "/photos/"
+    weight = -150
+
 # This links to the page about.md
 [[menu.main]]
     name = "A propos"

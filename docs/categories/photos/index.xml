@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravures on Hien Lê</title>
+    <link>http://localhost:1313/categories/photos/</link>
+    <description>Recent content in Gravures on Hien Lê</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Hien Lê built with Hugo Theme Gallery</copyright><atom:link href="http://localhost:1313/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
