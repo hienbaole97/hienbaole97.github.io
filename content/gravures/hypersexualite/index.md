@@ -1,7 +1,7 @@
 ---
 date: 2026-05-02
 title: Portraits
-description: Venis mou et aquatinte
+description: Venis mou, aquatinte, pointe eau-forte
 sort_by: Params.weight
 categories: ["gravures"]
 resources:
