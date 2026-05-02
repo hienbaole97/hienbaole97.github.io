@@ -2,7 +2,7 @@ baseURL = 'https://hienbaole97.github.io/'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
 
-title = 'Hien LÊ'
+title = 'Hien Lê'
 
 publishDir = "docs"
 
