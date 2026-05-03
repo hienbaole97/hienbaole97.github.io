@@ -59,14 +59,19 @@
           &lt;p&gt;Carborundum&lt;/p&gt;
         </description></item>
     <item>
-      <title>A propos</title>
-      <link>https://hienbaole97.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hienbaole97.github.io/about/</guid><description>&lt;no value&gt;</description></item>
+      <title>Crépuscule</title>
+      <link>https://hienbaole97.github.io/photos/crepuscule/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+      <guid>https://hienbaole97.github.io/photos/crepuscule/</guid>
+        <media:content url="https://hienbaole97.github.io/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://hienbaole97.github.io/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Hanoï</title>
       <link>https://hienbaole97.github.io/photos/hanoi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
       <guid>https://hienbaole97.github.io/photos/hanoi/</guid>
         <media:content url="https://hienbaole97.github.io/photos/hanoi/B026895-R1-07-6A_hu01b5abdd4b283bd9df9715914b10b56d_2409574_filter_2999419463905045822.JPG" type="image/jpeg"/>
         <description>
@@ -76,12 +81,17 @@
     <item>
       <title>Nature morte</title>
       <link>https://hienbaole97.github.io/photos/naturemorte/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
       <guid>https://hienbaole97.github.io/photos/naturemorte/</guid>
         <media:content url="https://hienbaole97.github.io/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://hienbaole97.github.io/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>A propos</title>
+      <link>https://hienbaole97.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hienbaole97.github.io/about/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

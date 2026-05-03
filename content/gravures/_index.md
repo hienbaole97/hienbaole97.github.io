@@ -5,5 +5,5 @@ title: Gravures
 weight: 1
 params:
     featured: true
-    private: false
+    private: true
 ---

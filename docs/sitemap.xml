@@ -2,10 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hienbaole97.github.io/gravures/</loc>
-    <lastmod>2026-05-02T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://hienbaole97.github.io/photos/</loc>
+    <lastmod>2025-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://hienbaole97.github.io/categories/gravures/</loc>
     <lastmod>2026-05-02T00:00:00+02:00</lastmod>
@@ -28,12 +26,18 @@
     <loc>https://hienbaole97.github.io/gravures/paysage-natal/</loc>
     <lastmod>2026-05-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://hienbaole97.github.io/about/</loc>
+    <loc>https://hienbaole97.github.io/photos/crepuscule/</loc>
+    <lastmod>2025-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://hienbaole97.github.io/photos/hanoi/</loc>
+    <lastmod>2025-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://hienbaole97.github.io/photos/naturemorte/</loc>
+    <lastmod>2025-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://hienbaole97.github.io/categories/photographies/</loc>
+    <lastmod>2025-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://hienbaole97.github.io/about/</loc>
   </url>
 </urlset>
