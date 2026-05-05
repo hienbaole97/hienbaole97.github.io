@@ -2,106 +2,106 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hien L[E] on Hien Lê</title>
-    <link>https://hienbaole97.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Hien L[E] on Hien Lê</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Hien Lê built with Hugo Theme Gallery</copyright>
-    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://hienbaole97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portraits</title>
-      <link>https://hienbaole97.github.io/gravures/hypersexualite/</link>
+      <link>http://localhost:1313/gravures/hypersexualite/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/hypersexualite/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/hypersexualite/hypersexualite_hu46c491aaa87fcdcbf7d150f39966574d_4596255_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/hypersexualite/</guid>
+        <media:content url="http://localhost:1313/gravures/hypersexualite/hypersexualite_hu46c491aaa87fcdcbf7d150f39966574d_4596255_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/hypersexualite/hypersexualite_hu46c491aaa87fcdcbf7d150f39966574d_4596255_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/hypersexualite/hypersexualite_hu46c491aaa87fcdcbf7d150f39966574d_4596255_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Vernis mou, aquatinte, pointe eau-forte&lt;/p&gt;
         </description></item>
     <item>
       <title>Du rivage</title>
-      <link>https://hienbaole97.github.io/gravures/rivage/</link>
+      <link>http://localhost:1313/gravures/rivage/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/rivage/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/rivage/la-mer_hu6af852bbc284cbcdb5669d48c24dcfa5_12426819_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/rivage/</guid>
+        <media:content url="http://localhost:1313/gravures/rivage/la-mer_hu6af852bbc284cbcdb5669d48c24dcfa5_12426819_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/rivage/la-mer_hu6af852bbc284cbcdb5669d48c24dcfa5_12426819_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/rivage/la-mer_hu6af852bbc284cbcdb5669d48c24dcfa5_12426819_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Aquatinte classique et morsure directe&lt;/p&gt;
         </description></item>
     <item>
       <title>Jeunes femmes</title>
-      <link>https://hienbaole97.github.io/gravures/femme/</link>
+      <link>http://localhost:1313/gravures/femme/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/femme/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/femme/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/femme/</guid>
+        <media:content url="http://localhost:1313/gravures/femme/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/femme/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/femme/mademoiselle-2_hu3325706d59f2d9b920d3bf58e0a6d50a_8061097_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Carborundum&lt;/p&gt;
         </description></item>
     <item>
       <title>Nature morte</title>
-      <link>https://hienbaole97.github.io/gravures/naturemorte/</link>
+      <link>http://localhost:1313/gravures/naturemorte/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/naturemorte/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/naturemorte/muguet_hu60419f8ba44fb06e4247abcbeb556ec4_11311960_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/naturemorte/</guid>
+        <media:content url="http://localhost:1313/gravures/naturemorte/muguet_hu60419f8ba44fb06e4247abcbeb556ec4_11311960_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/naturemorte/muguet_hu60419f8ba44fb06e4247abcbeb556ec4_11311960_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/naturemorte/muguet_hu60419f8ba44fb06e4247abcbeb556ec4_11311960_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Aquatinte classique et morsure directe&lt;/p&gt;
         </description></item>
     <item>
       <title>Paysages natals</title>
-      <link>https://hienbaole97.github.io/gravures/paysage-natal/</link>
+      <link>http://localhost:1313/gravures/paysage-natal/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/paysage-natal/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/paysage-natal/que-huong_hu14ddc7f1a028ffc8e8aa20f3a111ac5b_10429880_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/paysage-natal/</guid>
+        <media:content url="http://localhost:1313/gravures/paysage-natal/que-huong_hu14ddc7f1a028ffc8e8aa20f3a111ac5b_10429880_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/paysage-natal/que-huong_hu14ddc7f1a028ffc8e8aa20f3a111ac5b_10429880_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/paysage-natal/que-huong_hu14ddc7f1a028ffc8e8aa20f3a111ac5b_10429880_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Carborundum&lt;/p&gt;
         </description></item>
     <item>
       <title>Crépuscule</title>
-      <link>https://hienbaole97.github.io/photos/crepuscule/</link>
+      <link>http://localhost:1313/photos/crepuscule/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/photos/crepuscule/</guid>
-        <media:content url="https://hienbaole97.github.io/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/photos/crepuscule/</guid>
+        <media:content url="http://localhost:1313/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photos/crepuscule/DSC_0725_hu66b8cb2842c33a9e1f1f98f0644b2da6_734818_filter_2999419463905045822.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Hanoï</title>
-      <link>https://hienbaole97.github.io/photos/hanoi/</link>
+      <link>http://localhost:1313/photos/hanoi/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/photos/hanoi/</guid>
-        <media:content url="https://hienbaole97.github.io/photos/hanoi/B026895-R1-07-6A_hu01b5abdd4b283bd9df9715914b10b56d_2409574_filter_2999419463905045822.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/photos/hanoi/</guid>
+        <media:content url="http://localhost:1313/photos/hanoi/B026895-R1-07-6A_hu01b5abdd4b283bd9df9715914b10b56d_2409574_filter_2999419463905045822.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/photos/hanoi/B026895-R1-07-6A_hu01b5abdd4b283bd9df9715914b10b56d_2409574_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photos/hanoi/B026895-R1-07-6A_hu01b5abdd4b283bd9df9715914b10b56d_2409574_filter_2999419463905045822.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Nature morte</title>
-      <link>https://hienbaole97.github.io/photos/naturemorte/</link>
+      <link>http://localhost:1313/photos/naturemorte/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/photos/naturemorte/</guid>
-        <media:content url="https://hienbaole97.github.io/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/photos/naturemorte/</guid>
+        <media:content url="http://localhost:1313/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Paysages etc.</title>
-      <link>https://hienbaole97.github.io/gravures/paysages/</link>
+      <link>http://localhost:1313/gravures/paysages/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/paysages/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/gravures/paysages/</guid>
+        <media:content url="http://localhost:1313/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png&quot; /&gt;
           &lt;p&gt;Aquatinte, sucre, vernis mou, pointe eau-forte&lt;/p&gt;
         </description></item>
     <item>
       <title>A propos</title>
-      <link>https://hienbaole97.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hienbaole97.github.io/about/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
