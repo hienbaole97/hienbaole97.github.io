@@ -74,6 +74,10 @@ pygmentsStyle = "native"
     # Enable link to feed in footer
     blogrss = true
 
+[services]
+    [services.googleAnalytics]
+        ID = 'G-X00LMH6JSP'
+
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
