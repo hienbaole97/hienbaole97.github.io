@@ -24,6 +24,8 @@ pygmentsCodefences = true
 
 pygmentsStyle = "native"
 
+googleAnalytics = "G-X00LMH6JSP"
+
 # Taxonomies (only tags and categories are supported out of the box but you can
 # add more)
 
@@ -73,10 +75,6 @@ pygmentsStyle = "native"
     
     # Enable link to feed in footer
     blogrss = true
-
-[services]
-    [services.googleAnalytics]
-        ID = 'G-X00LMH6JSP'
 
 [outputs]
   home = ["HTML", "RSS"]
