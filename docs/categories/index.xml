@@ -13,5 +13,10 @@
       <link>http://localhost:1313/categories/gravures/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/categories/gravures/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Photographies</title>
+      <link>http://localhost:1313/categories/photographies/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/categories/photographies/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
