@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hien Lê</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://hienbaole97.github.io/categories/</link>
     <description>Recent content in Categories on Hien Lê</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Hien Lê built with Hugo Theme Gallery</copyright>
-    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://hienbaole97.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gravures</title>
-      <link>http://localhost:1313/categories/gravures/</link>
+      <link>https://hienbaole97.github.io/categories/gravures/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/categories/gravures/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://hienbaole97.github.io/categories/gravures/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Photographies</title>
-      <link>http://localhost:1313/categories/photographies/</link>
+      <link>https://hienbaole97.github.io/categories/photographies/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/categories/photographies/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://hienbaole97.github.io/categories/photographies/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

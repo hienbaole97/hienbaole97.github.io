@@ -7,7 +7,7 @@ title = 'Hien Lê'
 publishDir = "docs"
 
 copyright = "© Hien Lê built with Hugo Theme Gallery"
-disableKinds = ["taxonomy"]
+#disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 timeZone = "Europe/Paris"
 timeout = "120s"
