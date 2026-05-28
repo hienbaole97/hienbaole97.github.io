@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Hien Lê built with Hugo Theme Gallery</copyright>
-    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://hienbaole97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://hienbaole97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contes et Histoires Vraies et Mon Enfance</title>
+      <link>https://hienbaole97.github.io/gravures/contes/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://hienbaole97.github.io/gravures/contes/</guid>
+        <media:content url="https://hienbaole97.github.io/gravures/contes/co-tam_hu6eeb7dd33b98d3a74644202f0f1e9e37_2944889_filter_2999419463905045822.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://hienbaole97.github.io/gravures/contes/co-tam_hu6eeb7dd33b98d3a74644202f0f1e9e37_2944889_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;p&gt;Pointe eau forte et sucre&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Printemps Eté Automne Hiver</title>
+      <link>https://hienbaole97.github.io/gravures/quatre-saisons/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://hienbaole97.github.io/gravures/quatre-saisons/</guid>
+        <media:content url="https://hienbaole97.github.io/gravures/quatre-saisons/printemps_hua635b59ff72f8bf7c92d6010d7ce2266_1745135_filter_2999419463905045822.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://hienbaole97.github.io/gravures/quatre-saisons/printemps_hua635b59ff72f8bf7c92d6010d7ce2266_1745135_filter_2999419463905045822.JPG&quot; /&gt;
+          &lt;p&gt;Pointe eau forte&lt;/p&gt;
+        </description></item>
     <item>
       <title>Portraits</title>
       <link>https://hienbaole97.github.io/gravures/hypersexualite/</link>
@@ -88,20 +108,5 @@
           &lt;img src=&quot;https://hienbaole97.github.io/photos/naturemorte/B025883-R1-06-13_hud2953d738ac75999a72a4a4f98da56b9_1662776_filter_2999419463905045822.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
-    <item>
-      <title>Paysages etc.</title>
-      <link>https://hienbaole97.github.io/gravures/paysages/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
-      <guid>https://hienbaole97.github.io/gravures/paysages/</guid>
-        <media:content url="https://hienbaole97.github.io/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://hienbaole97.github.io/gravures/paysages/la-baie-d-ha-long_hu5069a7532192646c67f45a5b30f2974d_20311975_filter_2999419463905045822.png&quot; /&gt;
-          &lt;p&gt;Aquatinte, sucre, vernis mou, pointe eau-forte&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>A propos</title>
-      <link>https://hienbaole97.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hienbaole97.github.io/about/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
