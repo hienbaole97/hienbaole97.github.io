@@ -14,4 +14,12 @@ resources:
     params:
       date: 2026-05-28
       weight: 1
+  - src: automne.JPG
+    params:
+      date: 2026-05-28
+      weight: 2
+  - src: hiver.JPG
+    params:
+      date: 2026-05-28
+      weight: 3    
 ---
