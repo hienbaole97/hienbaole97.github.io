@@ -1,6 +1,6 @@
 ---
 date: 2026-05-28
-title: Contes et Histoires Vraies et Mon Enfance
+title: Contes, histoires vraies et mon enfance
 description: Pointe eau forte et sucre
 sort_by: Params.weight
 categories: ["gravures"]
