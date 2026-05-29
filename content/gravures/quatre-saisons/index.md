@@ -5,20 +5,20 @@ description: Pointe eau forte
 sort_by: Params.weight
 categories: ["gravures"]
 resources:
-  - src: printemps.JPG
+  - src: printemps.jpg
     params:
       date: 2026-05-28
       weight: 0
       cover: true
-  - src: ete.JPG
+  - src: ete.jpg
     params:
       date: 2026-05-28
       weight: 1
-  - src: automne.JPG
+  - src: automne.jpg
     params:
       date: 2026-05-28
       weight: 2
-  - src: hiver.JPG
+  - src: hiver.jpg
     params:
       date: 2026-05-28
       weight: 3    
