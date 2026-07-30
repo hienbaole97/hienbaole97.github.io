@@ -18,4 +18,6 @@ resources:
     params:
       date: 2026-04-01
       weight: 2
+params:
+  private: true
 ---

@@ -9,5 +9,8 @@ resources:
     params:
       date: 2026-05-01
       weight: 0
+      cover: false
+  - src: pont-long-bien.png
+    params:
       cover: true
 ---

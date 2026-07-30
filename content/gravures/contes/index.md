@@ -12,4 +12,6 @@ resources:
       date: 2026-05-28
       weight: 0
       cover: true
+params:
+  private: true
 ---
