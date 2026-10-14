@@ -13,4 +13,6 @@ resources:
   - src: pont-long-bien.jpg
     params:
       cover: true
+params:
+  private: true
 ---

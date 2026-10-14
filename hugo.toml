@@ -55,6 +55,7 @@ googleAnalytics = "G-X00LMH6JSP"
 
 # Site wide params and SEO
 [params]
+    defaultTheme = "dark"
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
     description = """Portfolio de Hien"""

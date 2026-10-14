@@ -4,4 +4,6 @@ title: Du rivage
 description: Aquatinte classique et morsure directe
 sort_by: Date
 categories: ["gravures"]
+params:
+  private: true
 ---
