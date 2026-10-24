@@ -5,25 +5,38 @@ categories: ["gravures"]
 title: Bois gravés
 weight: 1
 sort_order: desc
-sort_by: Date
+sort_by: Name
 resources:
-    - src: DSC_7366.jpg
+    - src: tradi4.jpg
+      title: Dialogue avec la peinture chinoise - 39x47
+      params:
+        date: 2026-10-24
+    - src: tradi3.jpg
+      title: Dialogue avec la peinture chinoise - 36x47
+      params:
+        date: 2026-10-24
+    - src: tradi2.jpg
       title: Sans titre - 29x47cm
       params:
         date: 2026-10-24
-    - src: DSC_7354.jpg
+    - src: superpose1.jpg
       title: Sans titre - 29x39cm
       params:
         date: 2026-10-20
-    - src: DSC_7357.jpg
+    - src: tradi1.jpg
       title: Deux personnes - 26x36cm
       params:
         date: 2026-10-20
-    - src: DSC_7350.jpg
+    - src: allonge1.jpg
       title: Sans titre - 22x28cm
       params:
         date: 2026-10-20
-    - src: P2290079.jpg
+    - src: allonge2.jpg
+      title: Sans titre - 25x35cm
+      params:
+        date: 2026-10-24
+        cover: True
+    - src: superpose2.jpg
       title: Sans titre - 22x29cm
       params:
         date: 2026-10-20
