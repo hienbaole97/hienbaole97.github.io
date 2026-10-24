@@ -8,11 +8,11 @@ sort_order: desc
 sort_by: Name
 resources:
     - src: tradi4.jpg
-      title: Dialogue avec la peinture chinoise - 39x47
+      title: Dialogue avec la peinture chinoise 1 - 39x47cm
       params:
         date: 2026-10-24
     - src: tradi3.jpg
-      title: Dialogue avec la peinture chinoise - 36x47
+      title: Dialogue avec la peinture chinoise 2 - 36x47cm
       params:
         date: 2026-10-24
     - src: tradi2.jpg
