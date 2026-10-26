@@ -5,7 +5,7 @@ categories: ["gravures"]
 title: Bois gravés
 weight: 1
 sort_order: desc
-sort_by: Name
+sort_by: Date
 resources:
     - src: tradi4.jpg
       title: Dialogue avec la peinture chinoise 1 - 39x47cm
@@ -22,11 +22,11 @@ resources:
     - src: superpose1.jpg
       title: Sans titre - 29x39cm
       params:
-        date: 2026-10-20
+        date: 2026-10-21
     - src: tradi1.jpg
       title: Deux personnes - 26x36cm
       params:
-        date: 2026-10-20
+        date: 2026-10-24
     - src: allonge1.jpg
       title: Sans titre - 22x28cm
       params:
@@ -34,10 +34,10 @@ resources:
     - src: allonge2.jpg
       title: Sans titre - 25x35cm
       params:
-        date: 2026-10-24
+        date: 2026-10-20
         cover: True
     - src: superpose2.jpg
       title: Sans titre - 22x29cm
       params:
-        date: 2026-10-20
+        date: 2026-10-21
 ---
